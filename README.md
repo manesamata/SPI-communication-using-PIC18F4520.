@@ -1,2 +1,2 @@
 This project demonstrates Serial Peripheral Interface (SPI) communication using the PIC18F4520 microcontroller and Embedded C. The program initializes the SPI module and transmits address-data pairs to an external SPI-compatible device.
-The register addresses used in the program are consistent with configuration of a MAX7219/MAX7221 LED display driver. The exact hardware should be confirmed from the circuit used.
+The register addresses used in the program are consistent with configuration of a MAX7221 LED display driver. The exact hardware should be confirmed from the circuit used.
